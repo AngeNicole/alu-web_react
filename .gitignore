@@ -6,12 +6,6 @@ yarn.lock
 # Build outputs
 dist/
 build/
-*.js
-*.js.map
-!webpack.config.js
-!jest.config.js
-
-# TypeScript cache
 *.tsbuildinfo
 
 # IDE files
