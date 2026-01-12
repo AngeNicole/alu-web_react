@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/holbertonschool-web_react/static/css/main.26030af6.chunk.css",
-    "main.js": "/holbertonschool-web_react/static/js/main.b02f0a62.chunk.js",
-    "main.js.map": "/holbertonschool-web_react/static/js/main.b02f0a62.chunk.js.map",
-    "runtime-main.js": "/holbertonschool-web_react/static/js/runtime-main.77d11978.js",
-    "runtime-main.js.map": "/holbertonschool-web_react/static/js/runtime-main.77d11978.js.map",
-    "static/js/2.c7b52bdf.chunk.js": "/holbertonschool-web_react/static/js/2.c7b52bdf.chunk.js",
-    "static/js/2.c7b52bdf.chunk.js.map": "/holbertonschool-web_react/static/js/2.c7b52bdf.chunk.js.map",
-    "index.html": "/holbertonschool-web_react/index.html",
-    "static/css/main.26030af6.chunk.css.map": "/holbertonschool-web_react/static/css/main.26030af6.chunk.css.map",
-    "static/js/2.c7b52bdf.chunk.js.LICENSE.txt": "/holbertonschool-web_react/static/js/2.c7b52bdf.chunk.js.LICENSE.txt",
-    "static/media/holberton_logo.24bab5d6.jpg": "/holbertonschool-web_react/static/media/holberton_logo.24bab5d6.jpg"
+    "main.css": "/alu-web_react/static/css/main.26030af6.chunk.css",
+    "main.js": "/alu-web_react/static/js/main.b02f0a62.chunk.js",
+    "main.js.map": "/alu-web_react/static/js/main.b02f0a62.chunk.js.map",
+    "runtime-main.js": "/alu-web_react/static/js/runtime-main.470b8c2e.js",
+    "runtime-main.js.map": "/alu-web_react/static/js/runtime-main.470b8c2e.js.map",
+    "static/js/2.c7b52bdf.chunk.js": "/alu-web_react/static/js/2.c7b52bdf.chunk.js",
+    "static/js/2.c7b52bdf.chunk.js.map": "/alu-web_react/static/js/2.c7b52bdf.chunk.js.map",
+    "index.html": "/alu-web_react/index.html",
+    "static/css/main.26030af6.chunk.css.map": "/alu-web_react/static/css/main.26030af6.chunk.css.map",
+    "static/js/2.c7b52bdf.chunk.js.LICENSE.txt": "/alu-web_react/static/js/2.c7b52bdf.chunk.js.LICENSE.txt",
+    "static/media/holberton_logo.24bab5d6.jpg": "/alu-web_react/static/media/holberton_logo.24bab5d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.77d11978.js",
+    "static/js/runtime-main.470b8c2e.js",
     "static/js/2.c7b52bdf.chunk.js",
     "static/css/main.26030af6.chunk.css",
     "static/js/main.b02f0a62.chunk.js"
