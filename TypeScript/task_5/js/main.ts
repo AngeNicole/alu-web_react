@@ -1,5 +1,3 @@
-// Commit: 1 — 2026-01-10T09:00:00+0000
-// Commit: 2 — 2026-01-10T12:30:00+0000
 export interface MajorCredits {
   credits: number;
   _majorCreditBrand: void;
